@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYeJNSE1Bizzj9v+ZbiUtcx8uEk/IS7hZtQ3vP76p8rFAIlNsclp0IJcrxeeGL/kKXkOQWYzHmBQz2UiAD+6iA==",
+  "success": true,
+  "projectFilePath": "D:\\vs projects\\lol\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krik6\\.nuget\\packages\\delaunator\\1.0.10\\delaunator.1.0.10.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\numpy\\3.10.1.30\\numpy.3.10.1.30.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\numsharp\\0.30.0\\numsharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\python.deployment\\1.3.0\\python.deployment.1.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\python.included\\3.10.0-preview2\\python.included.3.10.0-preview2.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\pythonnet\\3.0.0-preview2022-04-11\\pythonnet.3.0.0-preview2022-04-11.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\krik6\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
